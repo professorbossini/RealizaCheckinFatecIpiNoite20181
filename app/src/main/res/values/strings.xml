@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Realiza Checkin Fatec Ipi Noite</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="checkin">Checkin</string>
+    <string name="explicacao_gps">%s, para ver onde você está no mapa, é preciso habilitar o GPS.</string>
+    <string name="mapa_indisponivel">Mapa indisponível</string>
+    <string name="gps_indisponivel">GPS indisponível</string>
+    <string name="app_de_foto_indisponivel">Seu dispositivo não tem app que tire foto, o checkin não vai rolar</string>
+    <string name="estou_aqui">Estou aqui!!!</string>
+    <string name="explicacao_camera">Para tirar foto, vai ser preciso usar a câmera.</string>
+</resources>
